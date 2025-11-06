@@ -1,0 +1,1 @@
+# its my readme created by me in github using terminal command
